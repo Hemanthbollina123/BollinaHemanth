@@ -22,13 +22,6 @@ for i in range(1, 101):
 for i in range(1, 101):
     print(i)
 
-""" write a program add up all the numbers from 1 to 100.
-"""
-
-sum = 0
-for i in range(1, 101):
-    sum += i
-print(sum)
 
 
 
